@@ -23,7 +23,7 @@ import metadata from "./metadata.json";
 import { parseMetadata } from "../../util/configuring";
 import { GetFilterOptionsFunc } from "houdoku-extension-lib/dist/interface";
 
-const BASE_URL = "https://onepiecechapters.com";
+const BASE_URL = "https://tcb-backup.bihar-mirchi.com/?date=18-5-2024-20";
 
 export const METADATA: ExtensionMetadata = parseMetadata(metadata);
 
